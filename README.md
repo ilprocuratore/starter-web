@@ -17,7 +17,7 @@ Sample website with plenty of files for demos
 
 ### Copyright
 
-Added copyright
+Added copyright 2020
 
 ### Others
 
