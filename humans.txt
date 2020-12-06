@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andrea Borrelli -- solution designer
 
 # THANKS
 
