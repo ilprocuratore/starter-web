@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 ### Copyright
 
 Added copyright
+
+### Others
+
+Latinum
